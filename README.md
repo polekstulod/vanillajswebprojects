@@ -1,7 +1,7 @@
 # 20 Web Projects with Vanilla JavaScript
 
 1.  Form Validation ✅
-2.  Movie Seat Booking DOM & Local Storage
+2.  Movie Seat Booking DOM & Local Storage ✅
 3.  Custom Video Player HTML5 Video API
 4.  Exchange Rate Calculator Fetch & JSON Intro
 5.  DOM Array Methods forEach, map, filter, sort, reduce
