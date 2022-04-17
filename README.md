@@ -5,7 +5,7 @@
 3. Custom Video Player HTML5 Video API ✅
 4. Exchange Rate Calculator Fetch & JSON Intro ✅
 5. DOM Array Methods forEach, map, filter, sort, reduce ✅
-6. Menu Slider & Modal DOM & CSS
+6. Menu Slider & Modal DOM & CSS ✅
 7. Hangman Game DOM, SVG, Events
 8. Meal Finder Fetch & MealDB API
 9. Expense Tracker Array Methods & Local Storage
