@@ -6,7 +6,7 @@
 4. Exchange Rate Calculator Fetch & JSON Intro ✅
 5. DOM Array Methods forEach, map, filter, sort, reduce ✅
 6. Menu Slider & Modal DOM & CSS ✅
-7. Hangman Game DOM, SVG, Events
+7. Hangman Game DOM, SVG, Events ✅
 8. Meal Finder Fetch & MealDB API
 9. Expense Tracker Array Methods & Local Storage
 10. Music Player HTML5 Audio API
