@@ -10,7 +10,7 @@
 8. Meal Finder Fetch & MealDB API ✅
 9. Expense Tracker Array Methods & Local Storage ✅
 10. Music Player HTML5 Audio API ✅
-11. Infinite Scroll Posts Fetch, AsyncAwait, CSS Loader
+11. Infinite Scroll Posts Fetch, AsyncAwait, CSS Loader ✅
 12. Typing Game DOM, Intervals, Events
 13. Speech Text Reader Speech Synthesis
 14. Memory Cards CSS Effects, Local Storage
