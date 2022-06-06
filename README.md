@@ -12,7 +12,7 @@
 10. Music Player HTML5 Audio API ✅
 11. Infinite Scroll Posts Fetch, AsyncAwait, CSS Loader ✅
 12. Typing Game DOM, Intervals, Events ✅
-13. Speech Text Reader Speech Synthesis
+13. Speech Text Reader Speech Synthesis ✅
 14. Memory Cards CSS Effects, Local Storage
 15. Lyrics Search App Fetch, Pagination, Lyrics.ovh API
 16. Relaxer App CSS Animations, setTimeout
