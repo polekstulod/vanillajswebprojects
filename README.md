@@ -16,7 +16,7 @@
 14. Memory Cards CSS Effects, Local Storage ✅
 15. Lyrics Search App Fetch, Pagination, Lyrics.ovh API ✅
 16. Relaxer App CSS Animations, setTimeout ✅
-17. Breakout Game HTML5 Canvas API
+17. Breakout Game HTML5 Canvas API ✅
 18. New Year Countdown DOM, Date & Time
 19. Sortable List Drag & Drop API
 20. Speak Number Guessing Game Speech Recognition
