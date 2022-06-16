@@ -19,4 +19,4 @@
 17. Breakout Game HTML5 Canvas API ✅
 18. New Year Countdown DOM, Date & Time ✅
 19. Sortable List Drag & Drop API ✅
-20. Speak Number Guessing Game Speech Recognition
+20. Speak Number Guessing Game Speech Recognition ✅
